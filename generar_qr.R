@@ -2,7 +2,7 @@
 # generar QR --------------------------------------------------------------
 
 qr <- qrcode::qr_code(
-  "https://saryace.github.io/qr_research/",
+  "https://alevega2702.github.io/qr_research-main/",
   ecl = c("L", "M", "Q", "H")
 )
 
