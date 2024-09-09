@@ -2,36 +2,29 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "ISEE 2024",
+    "title": "SuReMin",
     "section": "",
     "text": "I am Civil Industrial Engineer, mention in hydraulics, Pontificia Universidad Católica de Chile. Master and PhD in Engineering Sciences from the same university. I have been dedicated to research on issues related to water quality and its evaluation and control/treatment, focusing on contaminants such as metals and arsenic. As well as environmental geochemistry, studying the presence of metals in the soils of mining cities and their impact on health. My research is focused on water and soil quality. I am actively seeking collaboration opportunities."
   },
   {
-    "objectID": "index.html#alejandra-vega-resercher-center-for-sustainable-urban-development-cedeus-ponfificia-universidad-católica-de-chile",
-    "href": "index.html#alejandra-vega-resercher-center-for-sustainable-urban-development-cedeus-ponfificia-universidad-católica-de-chile",
-    "title": "ISEE 2024",
+    "objectID": "index.html#alejandra-vega-resercher-center-for-sustainable-urban-development-cedeus-ponfificia-universidad-católica-de-chile-asvegauc.cl",
+    "href": "index.html#alejandra-vega-resercher-center-for-sustainable-urban-development-cedeus-ponfificia-universidad-católica-de-chile-asvegauc.cl",
+    "title": "SuReMin",
     "section": "",
     "text": "I am Civil Industrial Engineer, mention in hydraulics, Pontificia Universidad Católica de Chile. Master and PhD in Engineering Sciences from the same university. I have been dedicated to research on issues related to water quality and its evaluation and control/treatment, focusing on contaminants such as metals and arsenic. As well as environmental geochemistry, studying the presence of metals in the soils of mining cities and their impact on health. My research is focused on water and soil quality. I am actively seeking collaboration opportunities."
   },
   {
-    "objectID": "index.html#presentation",
-    "href": "index.html#presentation",
-    "title": "ISEE 2024",
-    "section": "Presentation",
-    "text": "Presentation\nAbstract ID: 490 Metals in street dusts near industrial areas: the Quintero-Puchuncaví-Concón case, Chile A. Vega Contreras, C. Leiva, C. Marcial, S. Cortés, P. Pastén Session Date: August 28, 2024 - WEDNESDAY Session Time: 16:15 - 17:45"
-  },
-  {
-    "objectID": "index.html#location-of-study-case",
-    "href": "index.html#location-of-study-case",
-    "title": "ISEE 2024",
-    "section": "Location of study case",
-    "text": "Location of study case\n\nlibrary(leaflet)\nleaflet() %&gt;% \n  addTiles() %&gt;%  # Add default OpenStreetMap map tiles\n  addMarkers(lng=-71.533419, lat=-32.773023, popup=\"Quintero\") %&gt;% \n    addMarkers(lng=-71.414147, lat=-32.728612, popup=\"Puchuncaví\") %&gt;% \n    addMarkers(lng=-71.519691, lat=-32.932525, popup=\"Concón\")"
+    "objectID": "index.html#location-of-study-cases-for-soil-from-parks-and-street-dust",
+    "href": "index.html#location-of-study-cases-for-soil-from-parks-and-street-dust",
+    "title": "SuReMin",
+    "section": "Location of study cases for soil from parks and street dust",
+    "text": "Location of study cases for soil from parks and street dust\n\nlibrary(leaflet)\nleaflet() %&gt;% \n  addTiles() %&gt;%  # Add default OpenStreetMap map tiles\n  addMarkers(lng=-70.332368, lat=-27.368354, popup=\"Copiapó\") %&gt;% \n  addMarkers(lng=-71.082800, lat=-30.235785, popup=\"Andacollo\") %&gt;% \n  addMarkers(lng=-70.624004, lat=-26.348073, popup=\"Chañaral\")%&gt;% \n  addMarkers(lng=-70.667594, lat=-33.454046, popup=\"Gran Santiago\")  %&gt;%   \n  addMarkers(lng=-71.250051, lat=-29.905822, popup=\"La Serena-Coquimbo\") %&gt;% \n  addMarkers(lng=-73.140055, lat=-37.040252, popup=\"Coronel\") %&gt;% \n  addMarkers(lng=-71.533419, lat=-32.773023, popup=\"Quintero\") %&gt;% \n  addMarkers(lng=-71.414147, lat=-32.728612, popup=\"Puchuncaví\") %&gt;% \n  addMarkers(lng=-71.519691, lat=-32.932525, popup=\"Concón\")"
   },
   {
     "objectID": "index.html#research-group-papers",
     "href": "index.html#research-group-papers",
-    "title": "ISEE 2024",
+    "title": "SuReMin",
     "section": "Research group papers",
-    "text": "Research group papers\nChemical functionalization of drinking water treatment residuals with calcium silicate hydrate to treat metal-enriched waters Briso, A., Turri-Rivero, A., Montecinos, M., Molinos-Senante, M., Pastén, P.2023\nPerchlorate and chlorate assessment in drinking water in northern Chilean cities Diana Muñoz-Arango, Felipe Torres-Rojas, Natalia Tapia, Marcela Vega, Cristobal Alvear a, Gonzalo Pizarro, Pablo Pastén, Sandra Cortés, Alejandra S. Veg, Raúl Calderón, Robert Nerenberg , Ignacio T. Vargas Environmental Research, 116450 2023\nThe dynamics of arsenic and copper in solid and aqueous phases in reactive confluences receiving acid drainage: The role of turbidity and particle size JA Díaz, D Castillo, R Oyarzún, A Briso, M Montecinos, P Pastén Environmental Pollution 327, 121449 2023\nGlobal assessment of chemical quality of drinking water: The case of trihalomethanes CM Villanueva et al. Water Research 230, 119568 4 2023\nChallenges and opportunities for drinking water treatment residuals (DWTRs) in metal-rich areas: an integrated approach A Briso, AS Vega, M Molinos-Senante, P Pastén Environmental Science and Pollution Research 29 (43), 65599-65612 2 2022\nA comparative study of soil metal concentrations in Chilean urban parks using four pollution indexes AS Vega et al. Applied Geochemistry 141, 105230 8 2022\nSettling of copper-rich suspended particles from acid drainage neutralization as a function of chemical composition and particle size distribution M Montecinos, A Briso, A Vega, P Pastén Applied Geochemistry 139, 105239 3 2022\nPartitioning of copper at the confluences of Andean rivers Montecinos, M., Coquery, M., Alsina, M. A., Bretier, M., Gaillard, J. F., Dabrin, A., & Pastén, P.2020\nAn integrated study of health, environmentaland socioeconomic indicators in a mining-impacted community exposed to metal enrichment Pablo M. Moya,Guillermo J. Arce,Cinthya Leiva,Alejandra S. Vega,Santiago Gutierrez,Hector Adaros,Luis Muñoz,Pablo A. Pasten, Sandra Cortes 2019\nActive and legacy mining in an arid urban environment:challenges and perspectives for Copiapó, Northern Chile Athena B. Carkovic, Magdalena S. Calcagni, Alejandra S. Vega, Marina Coquery, Pablo M. Moya, Carlos A. Bonilla, Pablo A. Pasten 2016"
+    "text": "Research group papers\nA comparative study of soil metal concentrations in Chilean urban parks using four pollution indexes AS Vega et al. Applied Geochemistry 141, 105230 8 2022\nAn integrated study of health, environmentaland socioeconomic indicators in a mining-impacted community exposed to metal enrichment Pablo M. Moya,Guillermo J. Arce,Cinthya Leiva,Alejandra S. Vega,Santiago Gutierrez,Hector Adaros,Luis Muñoz,Pablo A. Pasten, Sandra Cortes 2019\nActive and legacy mining in an arid urban environment:challenges and perspectives for Copiapó, Northern Chile Athena B. Carkovic, Magdalena S. Calcagni, Alejandra S. Vega, Marina Coquery, Pablo M. Moya, Carlos A. Bonilla, Pablo A. Pasten 2016\nChemical functionalization of drinking water treatment residuals with calcium silicate hydrate to treat metal-enriched waters Briso, A., Turri-Rivero, A., Montecinos, M., Molinos-Senante, M., Pastén, P.2023\nPerchlorate and chlorate assessment in drinking water in northern Chilean cities Diana Muñoz-Arango, Felipe Torres-Rojas, Natalia Tapia, Marcela Vega, Cristobal Alvear a, Gonzalo Pizarro, Pablo Pastén, Sandra Cortés, Alejandra S. Veg, Raúl Calderón, Robert Nerenberg , Ignacio T. Vargas Environmental Research, 116450 2023\nThe dynamics of arsenic and copper in solid and aqueous phases in reactive confluences receiving acid drainage: The role of turbidity and particle size JA Díaz, D Castillo, R Oyarzún, A Briso, M Montecinos, P Pastén Environmental Pollution 327, 121449 2023\nGlobal assessment of chemical quality of drinking water: The case of trihalomethanes CM Villanueva et al. Water Research 230, 119568 4 2023\nChallenges and opportunities for drinking water treatment residuals (DWTRs) in metal-rich areas: an integrated approach A Briso, AS Vega, M Molinos-Senante, P Pastén Environmental Science and Pollution Research 29 (43), 65599-65612 2 2022\nSettling of copper-rich suspended particles from acid drainage neutralization as a function of chemical composition and particle size distribution M Montecinos, A Briso, A Vega, P Pastén Applied Geochemistry 139, 105239 3 2022\nPartitioning of copper at the confluences of Andean rivers Montecinos, M., Coquery, M., Alsina, M. A., Bretier, M., Gaillard, J. F., Dabrin, A., & Pastén, P.2020"
   }
 ]
